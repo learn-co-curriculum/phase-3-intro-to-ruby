@@ -5,7 +5,7 @@
 - Understand how to learn a new programming language
 - Learn the benefits and philosophy of Ruby as a language
 
-## Learning a New Programming Language
+## Introduction
 
 Throughout your career as a developer, it's highly likely that you'll be
 expected to learn multiple languages depending on the companies you work for and
@@ -30,16 +30,16 @@ building new applications.
 
 As you're learning, it's ok (and completely normal) to make mistakes: every
 developer that switches between languages forgets syntax (is it `.toUpperCase()`
-or `.upcase`) and needs to [look at the documentation][ruby docs upcase]
-regularly. The most important things are to **write code regularly** to develop
-your muscle memory, and trust that you'll get better with practice.
+or `.upcase`?) and needs to [look at the documentation][ruby docs upcase]
+regularly. The most important things are to **write code** to develop your
+muscle memory, and trust that you'll get better with practice.
 
 ## What is Ruby and Where Did it Come From?
 
 Ruby is a dynamic object-oriented, general-purpose programming language. It was
 designed and developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan.
 Matsumoto, often referred to as "Matz", first developed the idea for Ruby in the
-early 1990s. From Matz's post to the *ruby-talk* mailing list in 1999:
+early 1990s. From Matz's post to the _ruby-talk_ mailing list in 1999:
 
 > I was talking with my colleague about the possibility of an object-oriented
 > scripting language. I knew Perl (Perl4, not Perl5), but I didn't like it
@@ -118,10 +118,16 @@ Make sure to code along with the lessons to come so that you can gain confidence
 in how to not only write code, but also to check what your code is doing and
 explore all the great features Ruby has to offer.
 
+Be sure to check out the resources below as well, and bookmark them for future
+reference!
+
 ## Resources
 
 - [About Ruby](https://www.ruby-lang.org/en/about/)
 - [Ruby documentation][ruby docs]
+- [Ruby Style Guide](https://rubystyle.guide/)
+- [Ruby VSCode Extension](https://marketplace.visualstudio.com/items?itemName=rebornix.Ruby)
+- [Ruby Solargraph VSCode Extension](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
 
 [ruby docs]: https://ruby-doc.org
 [ruby docs upcase]: https://ruby-doc.org/core-2.7.3/String.html#method-i-upcase
