@@ -70,7 +70,7 @@ best:
 > enjoy programming, and to be happy. That is the primary purpose of Ruby
 > language.
 >
-> &mdash; Yukihiro Matsumoto
+> — Yukihiro Matsumoto
 
 ![Yukihiro Matsumoto](http://readme-pics.s3.amazonaws.com/imgres-1.jpg)
 
